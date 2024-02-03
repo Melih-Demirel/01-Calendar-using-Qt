@@ -1,1 +1,3 @@
-My first Object-Oriented Programming assignment. Basically build a calendar in Qt using C++ (was very fun!! ;C).
+# Calendar in Qt
+
+First Object-Oriented Programming assignment using the most beautiful language C++ :D.
